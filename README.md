@@ -1,5 +1,5 @@
   <!DOCTYPE html>
-<html lang="en">
+  <html lang="en">
 <head>
   <meta charset="UTF-8">
   <title>Sunnydale School</title>
@@ -9,17 +9,14 @@
       line-height: 1.6;
       margin: 20px;
     }
-
     h1 {
       font-size: 24px;
       font-weight: bold;
       color: #1E90FF;
     }
-
     h2 {
       margin-top: 20px;
     }
-
     #mission h2 {
       color: #32CD32;
     }
@@ -29,25 +26,21 @@
     #contact h2 {
       color: #20B2AA;
     }
-
     #upcoming-events {
       background-color: #FFFFE0;
       padding: 10px;
       border-radius: 5px;
     }
-
     .outdoor {
       background-color: #AFEEEE;
       padding: 5px;
       border: 1px solid #B0E0E6;
       border-radius: 3px;
     }
-
     .event-date {
       font-weight: bold;
       color: red;
     }
-
     .contact-box {
       background-color: #f8f3f3;
       padding: 10px;
