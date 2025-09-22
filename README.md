@@ -51,12 +51,10 @@
 </head>
 <body>
   <h1>Sunnydale School</h1>
-
   <section id="mission">
     <h2>Mission Statement</h2>
     <p>At Sunnydale School, we are committed to providing a nurturing and challenging environment that empowers students to become lifelong learners and responsible citizens.</p>
   </section>
-
   <section id="upcoming-events">
     <h2>Upcoming Events</h2>
     <ul>
@@ -65,7 +63,6 @@
       <li class="outdoor" data-event-type="outdoor">Sports Day - <span class="event-date">June 20</span></li>
     </ul>
   </section>
-
   <section id="contact">
     <h2>Contact Us</h2>
     <div class="contact-box">
